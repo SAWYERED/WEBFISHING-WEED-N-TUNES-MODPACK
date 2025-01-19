@@ -1,5 +1,5 @@
 Thanks for playing with Weed+Tunesmetics!
-Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics. [wave]glorpa gazoopa ! nonglorpians are all the same - zubiza zub zub see us coming. LMGO
+Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics. glorpa gazoopa ! nonglorpians are all the same - zubiza zub zub see us coming. LMGO
 Version: 1.1.4
 Authors: SAWYERED
 https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK
