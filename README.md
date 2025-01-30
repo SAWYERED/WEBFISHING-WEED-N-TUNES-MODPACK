@@ -4,9 +4,9 @@
 
 
 ## Weed+Tunesmetics  
-Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics  
+Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics. glorpa gazoopa ! nonglorpians are all the same - zubiza zub zub see us coming. LMGO  
 
-You can also find this mod at it's [Home Page](https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK)  
+You can also find this mod at it's [DOWNLOAD ONLY THIS MOD](https://github.com/SAWYERED/weed-tunesmetics)  
   
 <details>
 <summary>New Colors!</summary>  
@@ -14,14 +14,20 @@ You can also find this mod at it's [Home Page](https://github.com/SAWYERED/WEBFI
   
 | Name | Hex | Type |  
 | --- | --- | --- |  
-| <span style='color: #7298DA ;'>**Discord Blurple (original)** | #7298DA  | Primay & Secondary  |  
-| <span style='color: #5865F2 ;'>**Discord Blurple (new)** | #5865F2  | Primay & Secondary  |  
+| <span style='color: #7298DA;'>**Discord Blurple (original)** | #7298DA | Primay & Secondary  |  
+| <span style='color: #5865F2;'>**Discord Blurple (new)** | #5865F2 | Primay & Secondary  |  
 | <span style='color: #6577E6;'>**Discord Blurple (hybrid)** | #6577E6 | Primay & Secondary  |  
 | <span style='color: #00FF00;'>**Razer Green** | #00FF00 | Primay & Secondary  |  
-| <span style='color: #FF1B2D ;'>**Opera Red** | #FF1B2D  | Primay & Secondary  |  
-| <span style='color: #CCFF00 ;'>**Chartreuse** | #CCFF00  | Primay & Secondary  |  
+| <span style='color: #FF1B2D;'>**Opera Red** | #FF1B2D | Primay & Secondary  |  
 | <span style='color: #9FC54E;'>**Catfish Green** | #9FC54E | Primay & Secondary  |  
 | <span style='color: #437D4D;'>**Gleeb Green** | #437D4D | Primay & Secondary  |  
+| <span style='color: #CCFF00;'>**Chartreuse** | #CCFF00 | Primay & Secondary  |  
+| <span style='color: #f1f58f;'>**Sticky-note yellow** | #f1f58f | Primay & Secondary  |  
+| <span style='color: #ffa930;'>**Sticky-note orange** | #ffa930 | Primay & Secondary  |  
+| <span style='color: #ff32b2;'>**Sticky-note pink** | #ff32b2 | Primay & Secondary  |  
+| <span style='color: #a9edf1;'>**Sticky-note blue** | #a9edf1 | Primay & Secondary  |  
+| <span style='color: #74ed4b;'>**Sticky-note green** | #74ed4b | Primay & Secondary  |  
+| <span style='color: #F1EDE1;'>**White!** | #F1EDE1 | Primay & Secondary  
 ![8d13795bec6871072bb58d92c9f78849](https://github.com/user-attachments/assets/04e2d05f-e373-4d38-af7b-e8b035b92e88)
 
 </details>  
@@ -45,11 +51,7 @@ Version: 1.0.1
 Authors: SAWYERED
 ![20250124_102520-min](https://github.com/user-attachments/assets/104bdf3e-3f76-41a6-908b-d32c766627e4)
 
-
-
-[MAIN](https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK)
-
-
+[DOWNLOAD ONLY THIS MOD]([https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK](https://github.com/SAWYERED/weed-tunes-glorpfishing))
 
 # [This mod was made with Hatchery 1.3.2](https://github.com/coolbot100s/Hatchery)
 
