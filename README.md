@@ -51,7 +51,7 @@ Version: 1.0.1
 Authors: SAWYERED
 ![20250124_102520-min](https://github.com/user-attachments/assets/104bdf3e-3f76-41a6-908b-d32c766627e4)
 
-[DOWNLOAD ONLY THIS MOD]([https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK](https://github.com/SAWYERED/weed-tunes-glorpfishing))
+[DOWNLOAD ONLY THIS MOD](https://github.com/SAWYERED/weed-tunes-glorpfishing)
 
 # [This mod was made with Hatchery 1.3.2](https://github.com/coolbot100s/Hatchery)
 
